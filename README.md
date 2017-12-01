@@ -1,4 +1,4 @@
-# IKviewer
+# Curve Editor
 This project is an assignment of CIS-562 Computer Animation. The project is about different types of curves/splines(Cubic Catmull-Rom Spline), including bezier, hermite and bspline.
 ## Bezier
 De Casteljau's algorithm is used.
